@@ -76,3 +76,4 @@ To help you get your feet wet and get you familiar with our contribution process
 ### License
 
 React is [MIT licensed](./LICENSE).
+오픈소스 기여자가 되고 싶어요...
